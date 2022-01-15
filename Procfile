@@ -1,1 +1,1 @@
-workee: python3
+worker: python3 
